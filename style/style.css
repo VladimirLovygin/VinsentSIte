@@ -49,7 +49,6 @@ html {
 }
 
 .wrapper {
-  /* background-color: aqua; */
   max-width: 1216px;
   margin: 0 auto;
 }
@@ -84,7 +83,7 @@ html {
 }
 
 /* .intro_title position */
-.intro_title {
+.wrapper_block {
   position: absolute;
   width: 928px;
   height: 312px;
@@ -103,9 +102,9 @@ html {
 }
 
 .top_image {
-  /* position: absolute; */
+  position: absolute;
   width: 640px;
   height: 800px;
-  left: 1280px;
+  left: 640px;
   top: 0px;
 }
